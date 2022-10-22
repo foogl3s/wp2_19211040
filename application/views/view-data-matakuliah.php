@@ -1,7 +1,7 @@
 <html>
 
 <head>
-	<title> Tampil Data Matakuliah </title>
+	<title>Tampil Data Matakuliah</title>
 </head>
 
 <body>
